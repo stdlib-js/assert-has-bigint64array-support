@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasBigInt64ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-bigint64array-support@esm/index.mjs';
+import hasBigInt64ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-bigint64array-support@v0.2.1-esm/index.mjs';
 ```
 
 #### hasBigInt64ArraySupport()
@@ -70,7 +70,7 @@ var bool = hasBigInt64ArraySupport();
 <body>
 <script type="module">
 
-import hasBigInt64ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-bigint64array-support@esm/index.mjs';
+import hasBigInt64ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-bigint64array-support@v0.2.1-esm/index.mjs';
 
 var bool = hasBigInt64ArraySupport();
 if ( bool ) {
